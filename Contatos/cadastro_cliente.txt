@@ -1,0 +1,7 @@
+1,Carlos Alberto,Rua Morais Navarro 255,cbarbosa@cpfl.com.br,04/02/1977,19993110271
+2, Vanessa Brevi, Vanessa Brevi, Rua das Amoras 535, vanessa@vanessa, 28/09/1974, 19191919 
+3,Caio Vin¡cius,Ruas das Magn¢lias 74,caio@caio,08/12/2012,133559984523
+4,Manoel,rua,email,04,45
+5, Antonio, Antonio, Rua Jabuti, Antonio123@, 01/01/2021, 123321 
+6, MAriazinha, MAriazinha, Rua das Flores 75, MAria@joao, 02/02/2025, 525252 
+7,Antinio,Rua V,c@c,04,85

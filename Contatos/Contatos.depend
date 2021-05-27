@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1622079522 source:c:\users\carlos alberto\desktop\c++\leitura de dados externos\trabalho\contatos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<conio.h>
+
